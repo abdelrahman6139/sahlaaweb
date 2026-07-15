@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Semantic design tokens. Colors are stored as space-separated RGB channels so
+  Tailwind can apply opacity via `rgb(var(--token) / <alpha-value>)`.
+  Light is the default; `.dark` on <html> switches the palette.
+*/
+:root {
+  --background: 250 251 253;
+  --surface: 255 255 255;
+  --surface-muted: 241 245 249;
+  --border: 226 232 240;
+  --foreground: 15 23 42;
+  --muted-foreground: 100 116 139;
+  --primary: 79 70 229;
+  --primary-foreground: 255 255 255;
+  --accent: 124 58 237;
+  --ring: 99 102 241;
+
+  --shadow-color: 15 23 42;
+  color-scheme: light;
+}
+
+.dark {
+  --background: 8 11 20;
+  --surface: 15 20 33;
+  --surface-muted: 22 29 46;
+  --border: 32 41 62;
+  --foreground: 241 245 249;
+  --muted-foreground: 148 163 184;
+  --primary: 99 102 241;
+  --primary-foreground: 255 255 255;
+  --accent: 167 139 250;
+  --ring: 129 140 248;
+
+  --shadow-color: 0 0 0;
+  color-scheme: dark;
+}
+
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+  font-family: var(--font-inter), var(--font-arabic), system-ui, sans-serif;
+}
+
+[dir="rtl"] body {
+  font-family: var(--font-arabic), var(--font-inter), system-ui, sans-serif;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+@layer components {
+  .section-container {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Reusable gradient text for headline highlights */
+  .text-gradient {
+    @apply bg-gradient-to-r from-brand-500 to-accent bg-clip-text text-transparent;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 9999px;
+  background: rgb(var(--border));
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--muted-foreground) / 0.6);
+}
+
+/* Hide scrollbar for horizontal filter tabs */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

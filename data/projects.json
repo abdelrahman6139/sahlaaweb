@@ -1,0 +1,218 @@
+[
+  {
+    "id": "proj_001",
+    "title_en": "Retail POS Pro",
+    "title_ar": "نظام نقاط البيع للتجزئة",
+    "type": "POS System",
+    "summary_en": "A complete point-of-sale system managing 12+ branches for a Cairo retail chain — with inventory sync, loyalty programs, and real-time reporting.",
+    "summary_ar": "نظام نقاط بيع متكامل يدير أكثر من 12 فرع لسلسلة تجزئة في القاهرة — مع مزامنة المخزون وبرامج الولاء والتقارير الفورية.",
+    "description_en": "Retail POS Pro was built for a growing retail chain operating across Cairo and Giza. The client needed a unified system that could handle high transaction volumes across multiple branches while keeping inventory accurate in real time.\n\nWe designed a cloud-connected POS platform with a fast, offline-capable checkout interface. Each branch manager gets a live dashboard showing sales, stock levels, and staff performance. The central admin panel lets the owner view all branches at a glance, set pricing rules, and run promotional campaigns.\n\nKey features include: multi-branch inventory sync, customer loyalty card integration, daily and monthly financial reports, end-of-shift summaries, and support for multiple payment methods including Vodafone Cash and Fawry. The system runs on both Windows tablets and dedicated POS terminals.",
+    "description_ar": "تم بناء نظام Retail POS Pro لسلسلة تجزئة متنامية تعمل في القاهرة والجيزة. كان العميل بحاجة إلى نظام موحد قادر على التعامل مع أحجام معاملات كبيرة عبر فروع متعددة مع الحفاظ على دقة المخزون في الوقت الفعلي.\n\nصممنا منصة نقاط بيع متصلة بالسحابة مع واجهة دفع سريعة تعمل حتى بدون إنترنت. يحصل كل مدير فرع على لوحة تحكم مباشرة تُظهر المبيعات ومستويات المخزون وأداء الموظفين. تتيح لوحة الإدارة المركزية للمالك رؤية جميع الفروع دفعة واحدة وتحديد قواعد التسعير وإطلاق الحملات الترويجية.\n\nتشمل الميزات الرئيسية: مزامنة المخزون متعدد الفروع، تكامل بطاقة ولاء العملاء، التقارير المالية اليومية والشهرية، ملخصات نهاية الوردية، ودعم طرق دفع متعددة بما في ذلك فودافون كاش وفوري.",
+    "tags": ["POS", "Retail", "Inventory", "Multi-branch", "Cairo"],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-11-15T10:00:00.000Z"
+  },
+  {
+    "id": "proj_002",
+    "title_en": "Smart ERP Suite",
+    "title_ar": "منظومة ERP الذكية",
+    "type": "ERP Platform",
+    "summary_en": "A full ERP platform covering HR, finance, procurement, and operations — built for a 200-employee Egyptian manufacturing company.",
+    "summary_ar": "منصة ERP متكاملة تغطي الموارد البشرية والمالية والمشتريات والعمليات — مبنية لشركة تصنيع مصرية بـ200 موظف.",
+    "description_en": "Smart ERP Suite was delivered for a mid-size Egyptian manufacturing company that had outgrown its spreadsheet-based operations. The project took 6 months from discovery to go-live.\n\nThe platform covers five core modules: Human Resources (attendance, payroll, leave management), Finance (accounts payable/receivable, bank reconciliation, P&L), Procurement (purchase orders, supplier management, goods receipt), Inventory (raw materials, work-in-progress, finished goods), and Operations (production planning, quality control checklists).\n\nAll modules are connected to a central reporting engine that generates automated daily summaries and monthly executive dashboards. Role-based access ensures each department only sees what it needs. The system supports Arabic and English interfaces and complies with Egyptian tax regulations including e-invoicing (الفاتورة الإلكترونية).",
+    "description_ar": "تم تسليم منظومة Smart ERP لشركة تصنيع مصرية متوسطة الحجم تجاوزت قدرات إدارتها القائمة على جداول البيانات. استغرق المشروع 6 أشهر من الاكتشاف حتى الإطلاق.\n\nتغطي المنصة خمسة وحدات أساسية: الموارد البشرية (الحضور والغياب، كشف الرواتب، إدارة الإجازات)، المالية (الحسابات المدينة والدائنة، المطابقة البنكية، قائمة الأرباح والخسائر)، المشتريات (أوامر الشراء، إدارة الموردين، استلام البضائع)، المخزون (المواد الخام، قيد التصنيع، البضائع التامة)، والعمليات (تخطيط الإنتاج، قوائم فحص الجودة).\n\nجميع الوحدات متصلة بمحرك تقارير مركزي يولد ملخصات يومية آلية ولوحات تحكم تنفيذية شهرية. يدعم النظام واجهتي اللغة العربية والإنجليزية ويتوافق مع لوائح الضرائب المصرية بما في ذلك الفاتورة الإلكترونية.",
+    "tags": ["ERP", "HR", "Finance", "Procurement", "Egypt"],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "proj_003",
+    "title_en": "FieldForce Mobile",
+    "title_ar": "تطبيق الفريق الميداني",
+    "type": "Mobile App",
+    "summary_en": "iOS & Android app for field service teams — job dispatching, route optimization, offline mode, and digital signature capture.",
+    "summary_ar": "تطبيق iOS و Android لفرق الخدمة الميدانية — توزيع المهام، تحسين المسار، وضع أوفلاين، والتوقيع الرقمي.",
+    "description_en": "FieldForce Mobile was built for a logistics and maintenance company operating across Greater Cairo. Their technicians were managing jobs through WhatsApp and paper forms — leading to delays, missing data, and billing disputes.\n\nWe built a cross-platform mobile app (iOS & Android) that connects field staff directly to the operations back-end. Dispatchers assign jobs from a web dashboard; technicians receive instant notifications with job details, client location on Google Maps, and all required checklists.\n\nKey features: offline job completion (syncs when back online), digital signature capture from clients, photo evidence upload, GPS-tracked route optimization, live job status for the operations team, and automated service reports sent to clients by email. The app reduced job completion time by 35% in the first month of use.",
+    "description_ar": "تم بناء تطبيق FieldForce لشركة لوجستية وصيانة تعمل في منطقة القاهرة الكبرى. كان الفنيون يديرون المهام عبر واتساب ونماذج ورقية — مما أدى إلى تأخيرات وبيانات مفقودة ونزاعات في الفواتير.\n\nبنينا تطبيقاً متعدد المنصات (iOS و Android) يربط الموظفين الميدانيين مباشرة بالنظام التشغيلي الخلفي. يقوم المشغلون بتوزيع المهام من لوحة تحكم ويب؛ يتلقى الفنيون إشعارات فورية بتفاصيل المهمة وموقع العميل على خرائط جوجل وجميع قوائم التحقق المطلوبة.\n\nالميزات الرئيسية: إتمام المهام أوفلاين (تزامن عند العودة للإنترنت)، التقاط التوقيع الرقمي من العملاء، رفع الصور كدليل، تحسين المسار بتتبع GPS، حالة المهمة المباشرة للفريق التشغيلي، وتقارير خدمة آلية ترسل للعملاء بالبريد الإلكتروني.",
+    "tags": ["Mobile", "iOS", "Android", "Logistics", "Offline"],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-09-10T10:00:00.000Z"
+  },
+  {
+    "id": "proj_004",
+    "title_en": "Corporate Web Hub",
+    "title_ar": "الموقع الإلكتروني المؤسسي",
+    "type": "Website",
+    "summary_en": "A bilingual (Arabic/English) corporate website with a content management system, SEO optimization, and lead capture forms.",
+    "summary_ar": "موقع مؤسسي ثنائي اللغة (عربي/إنجليزي) مع نظام إدارة محتوى وتحسين SEO ونماذج تحويل العملاء.",
+    "description_en": "Corporate Web Hub was built for an Egyptian financial services company that needed a credible, professional online presence to support their sales team and attract inbound leads.\n\nThe website is fully bilingual (Arabic and English) with RTL/LTR layout switching. It includes a services overview, team profiles, case studies, a blog, and multiple lead capture forms integrated with the client's CRM.\n\nWe focused heavily on SEO — structured data markup, fast load times (95+ Lighthouse score), mobile-first design, and keyword targeting for Egyptian and Gulf business searches. The site was built with Next.js for performance and includes a simple CMS so the client's marketing team can update content without developer help.\n\nResults in the first 3 months: organic search traffic increased by 180%, and the contact form generates an average of 40 qualified leads per month.",
+    "description_ar": "تم بناء Corporate Web Hub لشركة خدمات مالية مصرية كانت بحاجة إلى حضور رقمي احترافي وموثوق لدعم فريق المبيعات واستقطاب عملاء جدد.\n\nالموقع ثنائي اللغة بالكامل (عربي وإنجليزي) مع تبديل تخطيط RTL/LTR. يتضمن نظرة عامة على الخدمات وملفات الفريق ودراسات الحالة ومدونة ونماذج متعددة لجذب العملاء متكاملة مع نظام CRM للعميل.\n\nركزنا بشكل كبير على تحسين محركات البحث — ترميز البيانات المنظمة، أوقات تحميل سريعة (درجة Lighthouse 95+)، تصميم أولوية الجوال، واستهداف الكلمات المفتاحية للبحث في مصر ودول الخليج. تم بناء الموقع بـ Next.js للأداء ويتضمن نظام إدارة محتوى بسيط حتى يتمكن فريق التسويق من تحديث المحتوى بدون مساعدة مطور.\n\nالنتائج في أول 3 أشهر: ارتفع حركة البحث الطبيعي بنسبة 180%، ونموذج التواصل يولد في المتوسط 40 عميل محتمل مؤهل شهرياً.",
+    "tags": ["Website", "Next.js", "SEO", "Bilingual", "CMS"],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-08-20T10:00:00.000Z"
+  },
+  {
+    "id": "proj_005",
+    "title_en": "SchoolBridge LMS",
+    "title_ar": "منصة SchoolBridge للتعلم",
+    "type": "Custom Software",
+    "summary_en": "A bilingual learning management system built for a private school network in Cairo — covering student portals, teacher tools, parent dashboards, and online exams.",
+    "summary_ar": "نظام إدارة تعلم ثنائي اللغة لشبكة مدارس خاصة في القاهرة — يغطي بوابات الطلاب وأدوات المعلمين ولوحات الأولياء والامتحانات الإلكترونية.",
+    "description_en": "SchoolBridge LMS was developed for a network of three private schools in Cairo seeking to modernize their academic operations and bring parents closer to their children's progress.\n\nThe platform has four distinct portals under one system: a Student Portal where learners access lessons, submit assignments, and track their grades; a Teacher Portal for publishing content, grading work, and sending class announcements; a Parent Portal with a live academic dashboard, attendance records, and direct messaging with teachers; and an Admin Panel for managing the academic calendar, generating school-wide reports, and configuring user permissions.\n\nOnline exams support multiple question types — multiple choice, true/false, short answer, and file uploads. The auto-grading engine scores objective questions instantly and flags subjective answers for teacher review. Results are published to students and parents simultaneously with a single click.\n\nThe system is fully bilingual Arabic/English with RTL support, and complies with Egyptian Ministry of Education data guidelines. Three thousand students across the three campuses use it daily.",
+    "description_ar": "تم تطوير SchoolBridge LMS لشبكة من ثلاث مدارس خاصة في القاهرة تسعى إلى تحديث عملياتها الأكاديمية وتقريب الأولياء من متابعة تقدم أبنائهم.\n\nتضم المنصة أربع بوابات مستقلة تحت نظام واحد: بوابة الطالب للوصول إلى الدروس وتسليم الواجبات ومتابعة الدرجات، بوابة المعلم لنشر المحتوى والتصحيح وإرسال إعلانات الفصل، بوابة ولي الأمر مع لوحة أكاديمية مباشرة وسجلات الحضور والتواصل المباشر مع المعلمين، ولوحة الإدارة لإدارة التقويم الدراسي وإنشاء التقارير الشاملة وتهيئة صلاحيات المستخدمين.\n\nتدعم الامتحانات الإلكترونية أنواعاً متعددة من الأسئلة — الاختيار من متعدد، الصح والخطأ، الإجابة القصيرة، ورفع الملفات. يقوم محرك التصحيح التلقائي بتقييم الأسئلة الموضوعية فوراً ويُعلم الأسئلة الإنشائية لمراجعة المعلم.\n\nالنظام ثنائي اللغة بالكامل مع دعم RTL، ويتوافق مع إرشادات بيانات وزارة التربية والتعليم المصرية. يستخدمه ثلاثة آلاف طالب عبر المدارس الثلاث يومياً.",
+    "tags": ["LMS", "Education", "React", "Next.js", "Bilingual", "Cairo"],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-06-10T10:00:00.000Z"
+  },
+  {
+    "id": "proj_006",
+    "title_en": "MedFlow Clinic System",
+    "title_ar": "نظام MedFlow للعيادات",
+    "type": "Custom Software",
+    "summary_en": "A clinic management system for a multi-specialty medical center in Alexandria — handling patient records, doctor scheduling, billing, and insurance claims.",
+    "summary_ar": "نظام إدارة عيادات لمركز طبي متخصص في الإسكندرية — يتولى سجلات المرضى وجداول الأطباء والفوترة ومطالبات التأمين.",
+    "description_en": "MedFlow was built for a multi-specialty medical center in Alexandria running five specialties across two floors. The center had been managing patient records on paper and needed a system that could centralize everything without disrupting daily operations.\n\nThe system handles the full patient journey: from reception check-in and queue management to the doctor's consultation screen, prescription printing, lab order requests, and final billing at checkout. Each specialist has a customized consultation form suited to their field — a cardiologist sees different fields than a dermatologist.\n\nThe scheduling module lets receptionists book appointments across all doctors and sends automated SMS reminders to patients 24 hours before their visit. Overbooking alerts and color-coded calendar views help the front desk stay on top of a busy day.\n\nFor billing, MedFlow supports cash, card, and insurance-based payment flows. It integrates with three major Egyptian insurance providers and auto-generates the required claim forms. The finance team gets a daily revenue reconciliation report with a single click.\n\nSince go-live, patient wait times dropped by 35% and billing errors fell to near zero.",
+    "description_ar": "تم بناء MedFlow لمركز طبي متخصص في الإسكندرية يعمل في خمس تخصصات على طابقين. كان المركز يدير سجلات المرضى على الورق وكان بحاجة إلى نظام يجمع كل شيء في مكان واحد دون تعطيل العمليات اليومية.\n\nيتولى النظام رحلة المريض بالكامل: من تسجيل الوصول في الاستقبال وإدارة قوائم الانتظار إلى شاشة الاستشارة للطبيب وطباعة الوصفة الطبية وطلبات المختبر والفوترة النهائية عند الخروج. لكل متخصص نموذج استشارة مخصص يناسب مجاله.\n\nتتيح وحدة الجدولة للموظفين حجز المواعيد عبر جميع الأطباء وإرسال تذكيرات SMS آلية للمرضى قبل 24 ساعة من زيارتهم. تنبيهات الحجز الزائد وعروض التقويم المرمزة بالألوان تساعد موظفي الاستقبال على إدارة يوم مزدحم.\n\nيدعم نظام الفوترة الدفع النقدي والبطاقة والتأمين، ويتكامل مع ثلاثة من كبار مزودي التأمين المصريين ويولد نماذج المطالبات المطلوبة تلقائياً.\n\nمنذ الإطلاق، انخفضت أوقات انتظار المرضى بنسبة 35% وانخفضت أخطاء الفوترة إلى ما يقارب الصفر.",
+    "tags": ["Healthcare", "Clinic", "Scheduling", "Billing", "Alexandria"],
+    "featured": false,
+    "mainImage": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1504813184591-01572f98c85f?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-04-05T10:00:00.000Z"
+  },
+  {
+    "id": "proj_007",
+    "title_en": "DeliveryOps Platform",
+    "title_ar": "منصة DeliveryOps للتوصيل",
+    "type": "Mobile App",
+    "summary_en": "A last-mile delivery management platform for a Cairo logistics startup — with a dispatcher dashboard, driver mobile app, real-time GPS tracking, and customer notifications.",
+    "summary_ar": "منصة إدارة توصيل الميل الأخير لشركة لوجستية ناشئة في القاهرة — مع لوحة تحكم المشرف وتطبيق موبايل للسائق وتتبع GPS الفوري وإشعارات العملاء.",
+    "description_en": "DeliveryOps was built for a fast-growing logistics startup in Greater Cairo that was managing 300+ daily deliveries through WhatsApp and phone calls. They needed a real system before scaling further.\n\nThe platform has three layers. The Dispatcher Dashboard is a web application where the operations team assigns orders to drivers, monitors live GPS positions on a map, and handles exceptions like failed deliveries or customer rescheduling. Routes are optimized automatically based on driver location and delivery zone.\n\nThe Driver App runs on Android and iOS. Drivers receive their assigned order list, get turn-by-turn directions via integrated maps, confirm deliveries with a photo or customer signature, and report issues directly through the app. The app works in low-connectivity areas by queuing status updates and syncing when signal is restored.\n\nThe Customer Notification Layer sends automated SMS and WhatsApp messages at each delivery milestone: order confirmed, driver en route, arrived at door, and delivered. Customers can also use a tracking link to follow their order on a live map.\n\nSince deployment, the startup reduced failed delivery attempts by 42% and cut dispatcher headcount needs by half.",
+    "description_ar": "تم بناء DeliveryOps لشركة لوجستية ناشئة سريعة النمو في القاهرة الكبرى كانت تدير أكثر من 300 عملية توصيل يومياً عبر واتساب والمكالمات الهاتفية، وكانت بحاجة إلى نظام حقيقي قبل التوسع.\n\nتتكون المنصة من ثلاث طبقات. لوحة تحكم المشرف هي تطبيق ويب تقوم فيه فرق العمليات بتعيين الطلبات للسائقين ومراقبة مواقع GPS المباشرة على الخريطة والتعامل مع الاستثناءات كعمليات التوصيل الفاشلة أو إعادة الجدولة. يتم تحسين المسارات تلقائياً بناءً على موقع السائق ومنطقة التوصيل.\n\nتطبيق السائق يعمل على Android وiOS. يتلقى السائقون قائمة طلباتهم المعينة ويحصلون على اتجاهات خطوة بخطوة عبر الخرائط المدمجة ويؤكدون عمليات التوصيل بصورة أو توقيع العميل ويبلغون عن المشكلات مباشرة من خلال التطبيق. يعمل التطبيق في مناطق ضعيفة الاتصال عن طريق وضع تحديثات الحالة في قائمة انتظار ومزامنتها عند استعادة الإشارة.\n\nطبقة إشعارات العملاء ترسل رسائل SMS وواتساب آلية عند كل مرحلة توصيل: تأكيد الطلب، السائق في الطريق، الوصول إلى الباب، وتم التسليم.\n\nمنذ النشر، قللت الشركة الناشئة من محاولات التوصيل الفاشلة بنسبة 42% وخفضت احتياجات المشرفين إلى النصف.",
+    "tags": ["Mobile App", "Logistics", "GPS Tracking", "Android", "iOS", "Cairo"],
+    "featured": false,
+    "mainImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-02-18T10:00:00.000Z"
+  },
+  {
+    "id": "proj_008",
+    "title_en": "Bistro POS Cloud",
+    "title_ar": "بيسترو POS السحابي",
+    "type": "POS System",
+    "summary_en": "A cloud POS built for a 9-branch café and restaurant chain in New Cairo — table management, kitchen display, and delivery-app integrations.",
+    "summary_ar": "نظام نقاط بيع سحابي لسلسلة كافيهات ومطاعم من 9 فروع في القاهرة الجديدة — إدارة الطاولات وشاشة المطبخ وتكامل تطبيقات التوصيل.",
+    "description_en": "Bistro POS Cloud replaced three disconnected legacy systems for a growing café and restaurant group. The owner needed one platform to unify dine-in, takeaway, and third-party delivery orders.\n\nServers take orders on tablets at the table; tickets route instantly to a kitchen display screen sorted by station. Menu items, modifiers, and pricing sync across every branch from a single admin panel, and combo promotions can be scheduled in advance for slow hours.\n\nThe system integrates with Talabat and other delivery platforms so incoming orders land directly in the kitchen queue alongside in-house tickets — no more re-typing orders from a tablet. End-of-day reports reconcile cash, card, and delivery-platform payouts automatically.",
+    "description_ar": "استبدل بيسترو POS السحابي ثلاثة أنظمة قديمة منفصلة لمجموعة كافيهات ومطاعم متنامية. احتاج المالك منصة واحدة لتوحيد طلبات الصالة والتيك أواي وتطبيقات التوصيل.\n\nيأخذ النادلون الطلبات على أجهزة لوحية عند الطاولة؛ تُوجَّه التذاكر فوراً لشاشة عرض المطبخ مرتبة حسب المحطة. تتزامن أصناف القائمة والإضافات والأسعار عبر كل الفروع من لوحة إدارة واحدة.\n\nيتكامل النظام مع طلبات وغيرها من منصات التوصيل بحيث تصل الطلبات الواردة مباشرة لقائمة انتظار المطبخ جنباً إلى جنب مع تذاكر الصالة. تقارير نهاية اليوم تسوّي المدفوعات النقدية والبطاقة ومنصات التوصيل تلقائياً.",
+    "tags": ["POS", "Restaurants", "Kitchen Display", "Delivery Integration", "Cairo"],
+    "featured": false,
+    "mainImage": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-12-20T10:00:00.000Z"
+  },
+  {
+    "id": "proj_009",
+    "title_en": "Wholesale ERP Connect",
+    "title_ar": "منصة ERP للجملة والتوزيع",
+    "type": "ERP Platform",
+    "summary_en": "A distribution ERP for a wholesale FMCG distributor covering multi-warehouse inventory, sales-rep route planning, and credit-limit control.",
+    "summary_ar": "نظام ERP للتوزيع لموزع سلع استهلاكية سريعة الحركة — يغطي المخزون متعدد المخازن وتخطيط مسارات المندوبين والتحكم في حدود الائتمان.",
+    "description_en": "Wholesale ERP Connect was built for an FMCG distributor supplying over 800 retail outlets across the Delta region. Their sales reps were writing orders on paper carbon books, and warehouse stock counts rarely matched reality.\n\nSales reps now use a mobile app to place orders on-site, checking live stock and each retailer's outstanding balance before confirming. Orders route automatically to the nearest warehouse with available stock, and delivery routes are optimized by zone.\n\nCredit control is a core feature: the system blocks new orders once a retailer hits their credit limit and flags overdue accounts to the finance team automatically. Warehouse staff use barcode scanning for picking and receiving, cutting stock discrepancies by more than 90%.",
+    "description_ar": "بُني ERP Connect للموزعين لموزع سلع استهلاكية سريعة الحركة يخدم أكثر من 800 منفذ بيع بالتجزئة في منطقة الدلتا. كان مندوبو المبيعات يكتبون الطلبات على دفاتر ورقية، ونادراً ما كانت جرود المخازن تطابق الواقع.\n\nيستخدم المندوبون الآن تطبيق موبايل لتسجيل الطلبات في الموقع، مع التحقق من المخزون المباشر ورصيد كل تاجر قبل التأكيد. تُوجَّه الطلبات تلقائياً لأقرب مخزن يحتوي على المخزون المطلوب، وتُحسَّن مسارات التوصيل حسب المنطقة.\n\nالتحكم بالائتمان ميزة أساسية: يمنع النظام الطلبات الجديدة عند وصول التاجر لحد الائتمان وينبّه فريق المالية تلقائياً للحسابات المتأخرة. يستخدم موظفو المخازن مسح الباركود للتجهيز والاستلام، مما قلل تفاوتات المخزون بأكثر من 90%.",
+    "tags": ["ERP", "Distribution", "FMCG", "Inventory", "Credit Control"],
+    "featured": false,
+    "mainImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-12-05T10:00:00.000Z"
+  },
+  {
+    "id": "proj_010",
+    "title_en": "Boutique Commerce",
+    "title_ar": "بوتيك كوميرس",
+    "type": "Website",
+    "summary_en": "A bilingual e-commerce storefront for a Cairo fashion boutique — catalog, cart, InstaPay/Fawry checkout, and an owner-run product dashboard.",
+    "summary_ar": "متجر إلكتروني ثنائي اللغة لبوتيك أزياء في القاهرة — كتالوج وسلة ودفع عبر إنستا باي وفوري ولوحة تحكم للمنتجات يديرها المالك.",
+    "description_en": "Boutique Commerce gave a growing fashion label its first real online store, replacing an Instagram-DM-only sales process that couldn't keep up with demand.\n\nThe storefront is fast and mobile-first — most of the boutique's customers shop from their phones. Product variants (size, color), stock levels, and pricing are managed from a simple dashboard the owner updates herself between deliveries, no developer required.\n\nCheckout supports cash-on-delivery, InstaPay, and Fawry reference-code payment, covering how Egyptian shoppers actually prefer to pay. Since launch, online orders now account for over a third of total sales, and the owner reports checkout abandonment dropped sharply after we simplified the form to three steps.",
+    "description_ar": "منح بوتيك كوميرس علامة أزياء متنامية أول متجر إلكتروني حقيقي لها، ليحل محل عملية بيع عبر رسائل إنستجرام لم تعد تواكب الطلب.\n\nالمتجر سريع ومصمم للجوال أولاً — معظم عملاء البوتيك يتسوقون من هواتفهم. تُدار متغيرات المنتج (المقاس واللون) والمخزون والأسعار من لوحة تحكم بسيطة تحدّثها المالكة بنفسها بين التوريدات، دون الحاجة لمطوّر.\n\nيدعم الدفع عند الاستلام وإنستا باي وكود فوري المرجعي، بما يغطي طرق الدفع المفضلة فعلياً للمتسوقين المصريين. منذ الإطلاق، أصبحت الطلبات الإلكترونية تمثل أكثر من ثلث إجمالي المبيعات.",
+    "tags": ["Website", "E-commerce", "Fashion", "InstaPay", "Fawry"],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2026-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "proj_011",
+    "title_en": "PropertyFlow CRM",
+    "title_ar": "بروبرتي فلو CRM",
+    "type": "Custom Software",
+    "summary_en": "A real-estate sales CRM for a New Cairo developer — lead tracking, unit inventory, installment plans, and a sales-team leaderboard.",
+    "summary_ar": "نظام CRM لمبيعات العقارات لمطوّر في القاهرة الجديدة — تتبع العملاء المحتملين ومخزون الوحدات وخطط التقسيط ولوحة أداء فريق المبيعات.",
+    "description_en": "PropertyFlow CRM was built for a real-estate developer managing sales across three residential compounds. Their sales team was tracking leads in personal spreadsheets, and management had no reliable view of the pipeline.\n\nEvery lead now enters a single system from day one — from first inquiry through site visit, reservation, and contract signing. Available units are shown live per compound and building, so no sales agent can accidentally double-book a unit.\n\nInstallment plans are configured per unit with automatic payment-schedule generation, and the finance team gets automated alerts before each due date. Management reviews a live leaderboard showing each agent's conversion rate, which sparked healthy competition and lifted the team's overall close rate by 22% in the first quarter.",
+    "description_ar": "بُني بروبرتي فلو CRM لمطوّر عقاري يدير مبيعات عبر ثلاثة كمبوندات سكنية. كان فريق المبيعات يتتبع العملاء المحتملين في جداول بيانات شخصية، ولم تكن الإدارة تملك رؤية موثوقة لمسار المبيعات.\n\nيدخل كل عميل محتمل الآن نظاماً واحداً منذ أول استفسار وحتى زيارة الموقع والحجز وتوقيع العقد. تظهر الوحدات المتاحة مباشرة لكل كمبوند ومبنى، بحيث لا يستطيع أي مندوب حجز نفس الوحدة مرتين بالخطأ.\n\nتُهيَّأ خطط التقسيط لكل وحدة مع توليد جدول الدفعات تلقائياً، ويتلقى فريق المالية تنبيهات آلية قبل كل موعد استحقاق. تراجع الإدارة لوحة أداء مباشرة تُظهر معدل تحويل كل مندوب، مما رفع معدل الإغلاق الإجمالي للفريق بنسبة 22% في الربع الأول.",
+    "tags": ["CRM", "Real Estate", "Sales", "Installments", "New Cairo"],
+    "featured": false,
+    "mainImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-05-15T10:00:00.000Z"
+  },
+  {
+    "id": "proj_012",
+    "title_en": "GlamBook Salon App",
+    "title_ar": "تطبيق GlamBook للحجز",
+    "type": "Mobile App",
+    "summary_en": "A booking app for a chain of salons — service browsing, stylist selection, real-time availability, and automated reminder notifications.",
+    "summary_ar": "تطبيق حجز لسلسلة صالونات — تصفح الخدمات واختيار الأخصائي والتوفر الفوري وإشعارات تذكير آلية.",
+    "description_en": "GlamBook was built for a salon chain that was losing bookings to missed phone calls and double-booked chairs. Clients needed a way to book in seconds, and the salons needed a schedule that couldn't be double-booked.\n\nThe app shows real-time stylist availability per branch and service, so clients pick a time that's actually free — no back-and-forth calls. Favorite stylists can be booked directly, and past visit history helps stylists remember client preferences.\n\nAutomated push and SMS reminders cut no-shows significantly, and a simple loyalty-points system rewards repeat visits. Salon staff manage their day from a lightweight web calendar that stays in sync with the app in real time.",
+    "description_ar": "بُني GlamBook لسلسلة صالونات كانت تخسر حجوزات بسبب مكالمات فائتة وتعارض في الكراسي. احتاج العملاء طريقة للحجز في ثوانٍ، واحتاجت الصالونات جدولاً لا يمكن حجزه مرتين.\n\nيعرض التطبيق توفر الأخصائيين الفوري لكل فرع وخدمة، بحيث يختار العميل موعداً متاحاً فعلاً دون مكالمات متكررة. يمكن حجز الأخصائي المفضل مباشرة، ويساعد سجل الزيارات السابقة الأخصائيين على تذكر تفضيلات العميل.\n\nتقلل التذكيرات الآلية عبر الإشعارات والرسائل النصية من حالات عدم الحضور بشكل ملحوظ، ويكافئ نظام نقاط ولاء بسيط الزيارات المتكررة.",
+    "tags": ["Mobile App", "Booking", "Salons", "Loyalty", "Notifications"],
+    "featured": false,
+    "mainImage": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2025-03-01T10:00:00.000Z"
+  }
+]

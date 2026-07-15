@@ -1,0 +1,13 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements (Next.js + TypeScript + Tailwind responsive company website).
+- [x] Scaffold the Project (manual scaffold completed in current folder due space in folder name).
+- [x] Customize the Project (hero, services, featured projects, contact sections implemented).
+- [x] Install Required Extensions (none required by project setup info).
+- [x] Compile the Project (`npm run lint` and `npm run build` passed).
+- [x] Create and Run Task (`Run Next.js Dev Server` task created and launched).
+- [x] Launch the Project (development server launched).
+- [x] Ensure Documentation is Complete (README updated and this file cleaned).
+
+- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
