@@ -7,7 +7,7 @@ import SectionHeading from "@/components/ui/SectionHeading";
 import Reveal from "@/components/Reveal";
 import Button from "@/components/ui/Button";
 import Card from "@/components/ui/Card";
-import SolutionCard from "@/components/SolutionCard";
+import ServicesCarousel from "@/components/home/ServicesCarousel";
 import ProjectCard from "@/components/ProjectCard";
 import TestimonialCard from "@/components/TestimonialCard";
 import JsonLd from "@/components/JsonLd";
@@ -22,7 +22,7 @@ export default async function HomePage({ params }: { params: { lang: string } })
   const t = getDictionary(locale);
   const featured = await getFeaturedProjects(3);
 
-  const learnMore = locale === "ar" ? "اعرف المزيد" : "Learn more";
+  const explore = locale === "ar" ? "استكشف" : "Explore";
 
   const schemas = [
     organizationSchema(locale, t.footer.about),
@@ -43,19 +43,16 @@ export default async function HomePage({ params }: { params: { lang: string } })
 
       {/* Solutions / Services */}
       <Section id="solutions">
-        <SectionHeading
+        <ServicesCarousel
+          solutions={solutions}
+          locale={locale}
           eyebrow={t.services.tag}
           title={t.services.title}
-          subtitle={t.hero.subtitle}
+          exploreLabel={explore}
+          prevLabel={locale === "ar" ? "السابق" : "Previous"}
+          nextLabel={locale === "ar" ? "التالي" : "Next"}
         />
-        <div className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {solutions.map((s, i) => (
-            <Reveal key={s.slug} delay={i * 0.05}>
-              <SolutionCard solution={s} locale={locale} learnMore={learnMore} />
-            </Reveal>
-          ))}
-        </div>
-        <div className="mt-10 flex justify-center">
+        <div className="mt-12 flex justify-center">
           <Button href={`/${locale}/solutions`} variant="outline">
             {t.nav.solutions}
             <ArrowRight className="h-4 w-4 rtl:rotate-180" />

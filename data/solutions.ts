@@ -21,6 +21,8 @@ export interface Solution {
   slug: string;
   icon: string; // lucide icon key, resolved in the page
   projectType: string; // maps to Project.type for related work
+  image: string; // showcase image for the services carousel
+  category: { en: string; ar: string }; // short category label shown on the card
   en: SolutionContent;
   ar: SolutionContent;
 }
@@ -30,6 +32,8 @@ export const solutions: Solution[] = [
     slug: "pos",
     icon: "ShoppingCart",
     projectType: "POS System",
+    image: "https://images.unsplash.com/photo-1556740758-90de374c12ad?auto=format&fit=crop&q=80&w=1200",
+    category: { en: "Retail & POS", ar: "التجزئة ونقاط البيع" },
     en: {
       name: "POS / Point-of-Sale System",
       intent: "I want a POS system for my shop or restaurant",
@@ -121,6 +125,8 @@ export const solutions: Solution[] = [
     slug: "erp",
     icon: "Building2",
     projectType: "ERP Platform",
+    image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=1200",
+    category: { en: "Business Systems", ar: "أنظمة الأعمال" },
     en: {
       name: "ERP / Business Management System",
       intent: "I want one system to run my whole company",
@@ -212,6 +218,8 @@ export const solutions: Solution[] = [
     slug: "startup-mvp",
     icon: "Rocket",
     projectType: "Mobile App",
+    image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=1200",
+    category: { en: "Startups & MVP", ar: "الشركات الناشئة" },
     en: {
       name: "Startup MVP",
       intent: "I have a startup idea and want to build it",
@@ -303,6 +311,8 @@ export const solutions: Solution[] = [
     slug: "mobile-app",
     icon: "Smartphone",
     projectType: "Mobile App",
+    image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=1200",
+    category: { en: "Mobile Apps", ar: "تطبيقات الموبايل" },
     en: {
       name: "Mobile App Development",
       intent: "I want a mobile app for my business or idea",
@@ -394,6 +404,8 @@ export const solutions: Solution[] = [
     slug: "website",
     icon: "Globe",
     projectType: "Website",
+    image: "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&q=80&w=1200",
+    category: { en: "Web & Platforms", ar: "الويب والمنصات" },
     en: {
       name: "Website & Web App",
       intent: "I want a professional website or web app",
@@ -485,6 +497,8 @@ export const solutions: Solution[] = [
     slug: "custom-software",
     icon: "Code2",
     projectType: "Custom Software",
+    image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80&w=1200",
+    category: { en: "Custom & Automation", ar: "برمجيات مخصصة" },
     en: {
       name: "Custom Software",
       intent: "I need custom software built for a specific problem",
