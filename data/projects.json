@@ -1,5 +1,142 @@
 [
   {
+    "id": "proj_citytools",
+    "title_en": "CityTools — ERP & Website",
+    "title_ar": "CityTools — نظام ERP وموقع إلكتروني",
+    "type": "ERP Platform",
+    "summary_en": "An integrated ERP and e-commerce website for a hardware & tools company — unifying inventory, sales, purchasing, and customers in one platform, with real-time financial and stock reporting.",
+    "summary_ar": "نظام تخطيط موارد متكامل وموقع إلكتروني لشركة عُدد وأدوات — يوحّد المخزون والمبيعات والمشتريات والعملاء في منصّة واحدة، مع تقارير مالية ومخزنية لحظية.",
+    "description_en": "CityTools is a complete business platform built for a hardware and tools company, pairing a full ERP back-office with a customer-facing e-commerce website on one connected system.\n\nThe ERP unifies the operations that used to live in separate spreadsheets: inventory across the catalogue, sales and invoicing, purchasing and suppliers, and a full customer record. Stock levels, costs, and balances update in real time, so the team always works from one accurate source of truth.\n\nManagement gets live financial and inventory reporting — what's selling, what's running low, and where the money is — while the integrated website lets customers browse the product range and order online, with orders flowing straight back into the same system.",
+    "description_ar": "CityTools منصّة أعمال متكاملة بُنيت لشركة عُدد وأدوات، تجمع بين نظام ERP كامل للإدارة الخلفية وموقع إلكتروني للتجارة والعملاء ضمن نظام واحد مترابط.\n\nيوحّد نظام ERP العمليات التي كانت موزّعة على ملفات منفصلة: المخزون عبر الكتالوج، والمبيعات والفوترة، والمشتريات والموردين، وسجلّ عملاء كامل. تتحدّث مستويات المخزون والتكاليف والأرصدة لحظيًا، فيعمل الفريق دائمًا من مصدر بيانات واحد دقيق.\n\nتحصل الإدارة على تقارير مالية ومخزنية لحظية — ما الذي يُباع، وما الذي أوشك على النفاد، وأين تسير الأموال — بينما يتيح الموقع المدمج للعملاء تصفّح المنتجات والطلب أونلاين، لتعود الطلبات مباشرة إلى النظام نفسه.",
+    "tags": ["ERP", "E-commerce", "Inventory", "Hardware & Tools", "Real-time Reporting"],
+    "featured": true,
+    "url": "https://citytools.org",
+    "year": "2026",
+    "mainImage": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "proj_taakud",
+    "title_en": "Taakud — Recruitment Platform",
+    "title_ar": "Taakud — منصّة توظيف",
+    "type": "Website",
+    "summary_en": "A recruitment platform connecting job seekers with employers inside and outside Egypt — job posting, CV building, online applications, and smart matching between skills and opportunities.",
+    "summary_ar": "منصّة توظيف تربط الباحثين عن عمل بأصحاب الأعمال داخل مصر وخارجها — نشر الوظائف، وإنشاء السير الذاتية، والتقديم الإلكتروني، والمطابقة الذكية بين المهارات والفرص.",
+    "description_en": "Taakud is a two-sided recruitment platform that brings job seekers and employers together in one place, serving the Egyptian market and opportunities abroad.\n\nEmployers post and manage vacancies, review applicants, and shortlist candidates from a single dashboard. Job seekers build a professional CV inside the platform, browse openings, and apply online in a few clicks — no more scattered emails and attachments.\n\nAt its core is a smart matching engine that pairs candidates' skills and experience with the most relevant opportunities, so employers see the right people faster and applicants discover roles that actually fit.",
+    "description_ar": "Taakud منصّة توظيف ثنائية الجانب تجمع الباحثين عن عمل وأصحاب الأعمال في مكان واحد، وتخدم السوق المصري والفرص خارج مصر.\n\nينشر أصحاب الأعمال الوظائف ويديرونها، ويراجعون المتقدّمين، ويختارون المرشّحين من لوحة تحكم واحدة. أما الباحثون عن عمل فيُنشئون سيرة ذاتية احترافية داخل المنصّة، ويتصفّحون الوظائف، ويتقدّمون إلكترونيًا بنقرات معدودة — دون رسائل ومرفقات متناثرة.\n\nوفي القلب منها محرّك مطابقة ذكي يوائم بين مهارات المرشّحين وخبراتهم وأنسب الفرص، فيصل أصحاب الأعمال إلى الأشخاص المناسبين أسرع، ويكتشف المتقدّمون وظائف تناسبهم فعلًا.",
+    "tags": ["Recruitment", "Job Board", "CV Builder", "Smart Matching", "Web Platform"],
+    "featured": true,
+    "url": "https://taakud.com",
+    "year": "2026",
+    "mainImage": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2026-08-15T10:00:00.000Z"
+  },
+  {
+    "id": "proj_elwahy",
+    "title_en": "El Wahy — Restaurant System & Mobile App",
+    "title_ar": "الواحي (El Wahy) — نظام مطاعم وتطبيق جوّال",
+    "type": "POS System",
+    "summary_en": "A complete restaurant management system — orders, menus, and multi-branch control — with a live GPS driver-tracking app and an online ordering site wired straight to the kitchen and delivery.",
+    "summary_ar": "نظام متكامل لإدارة المطاعم — الطلبات وقوائم الطعام وإدارة الفروع — مع تطبيق لتتبّع السائقين لحظيًا عبر GPS، وموقع لاستقبال الطلبات أونلاين مربوط مباشرة بالمطبخ والتوصيل.",
+    "description_en": "El Wahy is an end-to-end system for running a restaurant business across multiple branches, from the counter to the customer's door.\n\nStaff manage orders and menus from one platform, with branch-level control so each location's items, pricing, and operations stay organized under a central admin. Dine-in, takeaway, and delivery orders all live in the same flow.\n\nAn online ordering site takes orders directly from customers and sends them straight to the kitchen and delivery queue, while a dedicated mobile app tracks drivers live on the map via GPS — so the restaurant knows exactly where every order is on its way to being delivered.",
+    "description_ar": "الواحي نظام متكامل لإدارة أعمال المطاعم عبر عدّة فروع، من نقطة البيع حتى باب العميل.\n\nيدير الموظفون الطلبات وقوائم الطعام من منصّة واحدة، مع تحكّم على مستوى الفرع بحيث تبقى أصناف كل فرع وأسعاره وعملياته منظّمة تحت إدارة مركزية. وتسير طلبات الصالة والتيك أواي والتوصيل جميعها في المسار نفسه.\n\nيستقبل موقع الطلبات أونلاين الطلبات مباشرة من العملاء ويرسلها فورًا إلى المطبخ وقائمة التوصيل، بينما يتتبّع تطبيق جوّال مخصّص السائقين لحظيًا على الخريطة عبر GPS — فيعرف المطعم بدقة أين وصل كل طلب في طريقه إلى التسليم.",
+    "tags": ["POS", "Restaurant", "Mobile App", "GPS Tracking", "Online Ordering"],
+    "featured": true,
+    "url": "https://lamarpos.cloud/index.html",
+    "year": "2026",
+    "mainImage": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1526367790999-0150786686a2?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2026-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "proj_medicalqa",
+    "title_en": "Medical QA — Hospital & Lab Quality Assurance",
+    "title_ar": "Medical QA — نظام ضمان جودة للمستشفيات والمعامل",
+    "type": "Custom Software",
+    "summary_en": "A quality-assurance system for hospitals and labs — digital audit checklists aligned to accreditation standards, quality and performance indicators, risk and incident management, and corrective-action tracking.",
+    "summary_ar": "نظام ضمان جودة للمستشفيات والمعامل — قوائم تدقيق إلكترونية وفق معايير الاعتماد، ومؤشرات أداء وجودة، وإدارة مخاطر وحوادث، ومتابعة الإجراءات التصحيحية.",
+    "description_en": "Medical QA digitizes quality assurance for hospitals and laboratories, replacing paper audits and scattered records with one accountable system.\n\nQuality teams run digital audit checklists built around accreditation standards, capturing findings on the spot and tracking scores over time. Dashboards surface quality and performance indicators so leadership can see where standards are met and where they slip.\n\nThe platform also manages risks and incidents from report through investigation, and follows every corrective action to closure — creating a clear, auditable trail that keeps the facility ready for inspection and continuous improvement.",
+    "description_ar": "يرقمن Medical QA ضمان الجودة للمستشفيات والمعامل، ليحلّ محلّ التدقيق الورقي والسجلات المتناثرة نظامٌ واحد قابل للمساءلة.\n\nتنفّذ فرق الجودة قوائم تدقيق إلكترونية مبنية على معايير الاعتماد، وتسجّل الملاحظات فورًا وتتابع النتائج عبر الزمن. وتُبرز لوحات المتابعة مؤشرات الأداء والجودة، فترى الإدارة أين تتحقّق المعايير وأين تتراجع.\n\nكما يدير النظام المخاطر والحوادث من لحظة الإبلاغ مرورًا بالتحقيق، ويتابع كل إجراء تصحيحي حتى إغلاقه — مكوّنًا سجلًّا واضحًا قابلًا للتدقيق يبقي المنشأة جاهزة للتفتيش والتحسين المستمر.",
+    "tags": ["Healthcare", "Quality Assurance", "Accreditation", "Risk Management", "Audits"],
+    "featured": true,
+    "year": "2026",
+    "mainImage": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1580281658626-ee379f3cce93?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2026-07-15T10:00:00.000Z"
+  },
+  {
+    "id": "proj_forceshipping",
+    "title_en": "Force Shipping — Shipping & Logistics System",
+    "title_ar": "Force Shipping — نظام شحن ولوجستيات",
+    "type": "Custom Software",
+    "summary_en": "A shipping and logistics platform managing operations from pickup to delivery — courier and fleet management, real-time shipment tracking, and automatic cost-and-distance calculation.",
+    "summary_ar": "منصّة شحن ولوجستيات تدير العمليات من الاستلام حتى التسليم — إدارة المناديب والمركبات، وتتبّع لحظي للشحنات، وحساب تلقائي للتكاليف والمسافات.",
+    "description_en": "Force Shipping runs a logistics operation end to end, tracking every shipment from the moment it's picked up until it's delivered.\n\nThe platform manages couriers and vehicles — assigning shipments, balancing loads, and keeping the fleet organized — while giving the operations team a real-time view of where each shipment is at any moment.\n\nCosts and distances are calculated automatically for every route, so pricing is consistent and margins are clear. The result is fewer manual errors, faster dispatching, and full visibility over the whole delivery journey.",
+    "description_ar": "يدير Force Shipping عملية لوجستية من طرف إلى طرف، متتبّعًا كل شحنة من لحظة استلامها حتى تسليمها.\n\nتدير المنصّة المناديب والمركبات — توزيع الشحنات، وموازنة الأحمال، وتنظيم الأسطول — مع منح فريق العمليات رؤية لحظية لموقع كل شحنة في أي وقت.\n\nتُحسب التكاليف والمسافات تلقائيًا لكل مسار، فيصبح التسعير متسقًا والهوامش واضحة. والنتيجة أخطاء يدوية أقل، وتوزيع أسرع، ورؤية كاملة لرحلة التسليم بأكملها.",
+    "tags": ["Logistics", "Shipping", "Fleet Management", "Live Tracking", "Cost Calculation"],
+    "featured": true,
+    "url": "https://force.lamarpos.cloud/login",
+    "year": "2026",
+    "mainImage": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2026-07-01T10:00:00.000Z"
+  },
+  {
+    "id": "proj_hotel",
+    "title_en": "Hotel Management System",
+    "title_ar": "نظام إدارة الفنادق",
+    "type": "Custom Software",
+    "summary_en": "A hotel management system covering the full guest cycle — reservations and room availability, check-in/out, housekeeping, and billing — connecting the front desk to the back office in one platform.",
+    "summary_ar": "نظام إدارة فنادق يغطّي دورة النزيل بالكامل — الحجوزات وتوفّر الغرف، وتسجيل الدخول والخروج، والإشراف الداخلي، والفوترة — يربط الاستقبال بالإدارة الخلفية في منصّة واحدة.",
+    "description_en": "This hotel management system handles the full guest journey and the operations behind it, on one connected platform.\n\nThe front desk manages reservations against live room availability, handles check-in and check-out smoothly, and keeps a clear picture of who's arriving and departing each day. Housekeeping status stays in sync so rooms are turned over and ready without guesswork.\n\nBilling ties it all together — room charges and extras roll up into accurate guest folios and clean end-of-stay invoices — giving management one reliable view of occupancy and revenue.",
+    "description_ar": "يدير نظام إدارة الفنادق هذا رحلة النزيل بالكامل والعمليات التي خلفها، على منصّة واحدة مترابطة.\n\nيدير مكتب الاستقبال الحجوزات مقابل توفّر الغرف لحظيًا، ويتولّى تسجيل الدخول والخروج بسلاسة، ويحتفظ بصورة واضحة لمن سيصل ويغادر كل يوم. وتبقى حالة الإشراف الداخلي متزامنة، فتُجهَّز الغرف وتصبح جاهزة دون تخمين.\n\nوتربط الفوترة كل ذلك معًا — إذ تتجمّع رسوم الغرف والإضافات في كشوف نزلاء دقيقة وفواتير نهاية إقامة واضحة — لتمنح الإدارة رؤية موثوقة واحدة للإشغال والإيرادات.",
+    "tags": ["Hotel", "Reservations", "Front Desk", "Housekeeping", "Billing"],
+    "featured": true,
+    "year": "2026",
+    "mainImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2026-06-15T10:00:00.000Z"
+  },
+  {
+    "id": "proj_tourism_erp_hr",
+    "title_en": "Tourism ERP & HR System with Employee App",
+    "title_ar": "نظام ERP لشركة سياحة ونظام موارد بشرية بتطبيق للموظفين",
+    "type": "ERP Platform",
+    "summary_en": "An ERP for a tourism company paired with a full HR system and a mobile app for employees — bookings and operations, payroll and attendance, leave requests, and self-service on the go.",
+    "summary_ar": "نظام تخطيط موارد لشركة سياحة مع نظام موارد بشرية متكامل وتطبيق جوّال للموظفين — إدارة الحجوزات والعمليات، والرواتب والحضور، وطلبات الإجازات، والخدمة الذاتية أثناء التنقّل.",
+    "description_en": "This platform runs a tourism company's operations and its people from one connected system — an ERP for the business, a full HR module, and a mobile app that puts the workplace in each employee's pocket.\n\nOn the operations side, the ERP manages bookings and the day-to-day workflow of the tourism business. The HR system handles the employee lifecycle: attendance, payroll, and leave, with clean records that management can rely on.\n\nThe employee mobile app brings self-service on the go — staff check in, view payslips, request leave, and stay updated wherever they are — cutting paperwork and back-and-forth for HR while keeping everyone connected.",
+    "description_ar": "تدير هذه المنصّة عمليات شركة السياحة وموظفيها من نظام واحد مترابط — نظام ERP للأعمال، ووحدة موارد بشرية متكاملة، وتطبيق جوّال يضع مكان العمل في جيب كل موظف.\n\nعلى جانب العمليات، يدير نظام ERP الحجوزات وسير العمل اليومي لنشاط السياحة. ويتولّى نظام الموارد البشرية دورة حياة الموظف: الحضور والرواتب والإجازات، بسجلات دقيقة تعتمد عليها الإدارة.\n\nويوفّر تطبيق الموظفين الجوّال الخدمة الذاتية أثناء التنقّل — يسجّل الموظفون الحضور، ويطّلعون على قسائم الرواتب، ويطلبون الإجازات، ويبقون على اطلاع أينما كانوا — مما يقلّل الأعمال الورقية والمراجعات المتكرّرة للموارد البشرية ويبقي الجميع على تواصل.",
+    "tags": ["ERP", "Tourism", "HR", "Payroll", "Employee Mobile App"],
+    "featured": true,
+    "year": "2026",
+    "mainImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=1200",
+    "images": [
+      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=800"
+    ],
+    "createdAt": "2026-06-01T10:00:00.000Z"
+  },
+  {
     "id": "proj_001",
     "title_en": "Retail POS Pro",
     "title_ar": "نظام نقاط البيع للتجزئة",

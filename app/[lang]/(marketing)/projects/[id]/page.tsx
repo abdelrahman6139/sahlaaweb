@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ChevronRight, ArrowRight, Tag, Calendar } from "lucide-react";
+import { ChevronRight, ArrowRight, Tag, Calendar, ExternalLink } from "lucide-react";
 import Section from "@/components/ui/Section";
 import Card from "@/components/ui/Card";
 import Button from "@/components/ui/Button";
@@ -134,6 +134,17 @@ export default async function ProjectDetail({
                     </span>
                   ))}
                 </div>
+              )}
+              {project.url && (
+                <a
+                  href={project.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-6 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-primary px-4 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:opacity-90"
+                >
+                  {isAr ? "زيارة الموقع المباشر" : "Visit live site"}
+                  <ExternalLink className="h-4 w-4" />
+                </a>
               )}
             </Card>
 
